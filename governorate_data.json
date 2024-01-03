@@ -5,7 +5,7 @@
       "display_name": {
         "ar": "بغداد",
         "en": "Baghdad",
-        "kd": "Baghdad"
+        "kd": "بەغدا"
       },
       "delivery_polygon": [
         {
@@ -497,7 +497,7 @@
       "display_name": {
         "ar": "البصرة",
         "en": "Basrah",
-        "kd": "Basrah"
+        "ku": "بصرة"
       },
       "delivery_polygon": [
         {
@@ -928,7 +928,7 @@
       "display_name": {
         "ar": "الديوانية",
         "en": "Diwaniyah",
-        "kd": "Diwaniyah"
+        "kd": "ديوانية"
       },
       "delivery_polygon": [],
       "store_list": [
@@ -968,9 +968,9 @@
     {
       "shortname": "diyala",
       "display_name": {
-        "ar": "Diyala",
+        "ar": "ديالى",
         "en": "Diyala",
-        "kd": "Diyala"
+        "ku": "دیالە"
       },
       "delivery_polygon": [],
       "store_list": [
@@ -1010,9 +1010,9 @@
     {
       "shortname": "erbil",
       "display_name": {
-        "ar": "Erbil",
+        "ar": "أربيل",
         "en": "Erbil",
-        "kd": "Erbil"
+        "ku": "ھەولێر"
       },
       "delivery_polygon": [],
       "store_list": [
@@ -1052,9 +1052,9 @@
     {
       "shortname": "fallujah",
       "display_name": {
-        "ar": "Fallujah",
+        "ar": "الفلوجة",
         "en": "Fallujah",
-        "kd": "Fallujah"
+        "ku": "فلوجة"
       },
       "delivery_polygon": [
         {
@@ -1295,9 +1295,9 @@
     {
       "shortname": "hilla",
       "display_name": {
-        "ar": "Hilla",
+        "ar": "الحلة",
         "en": "Hilla",
-        "kd": "Hilla"
+        "ku": "حلة"
       },
       "delivery_polygon": [
         {
@@ -1646,9 +1646,9 @@
     {
       "shortname": "karbala",
       "display_name": {
-        "ar": "Karbala",
+        "ar": "كربلاء",
         "en": "Karbala",
-        "kd": "Karbala"
+        "ku": "كربلاء"
       },
       "delivery_polygon": [
         {
@@ -2197,9 +2197,9 @@
     {
       "shortname": "najaf",
       "display_name": {
-        "ar": "Najaf",
+        "ar": "النجف",
         "en": "Najaf",
-        "kd": "Najaf"
+        "ku": "نجف"
       },
       "delivery_polygon": [
         {
@@ -2524,9 +2524,9 @@
     {
       "shortname": "nasiriyah",
       "display_name": {
-        "ar": "Nasiriyah",
+        "ar": "الناصرية",
         "en": "Nasiriyah",
-        "kd": "Nasiriyah"
+        "ku": "ناصرية"
       },
       "delivery_polygon": [
         {
@@ -3035,9 +3035,9 @@
     {
       "shortname": "ramadi",
       "display_name": {
-        "ar": "Ramadi",
+        "ar": "الرمادي",
         "en": "Ramadi",
-        "kd": "Ramadi"
+        "ku": "رمادي"
       },
       "delivery_polygon": [
         {
@@ -3434,9 +3434,9 @@
     {
       "shortname":"samawah",
       "display_name": {
-        "ar": "samawah",
+        "ar": "السماوة",
         "en": "samawah",
-        "kd": "samawah"
+        "kd": "سماوة"
       },
       "delivery_polygon":[
         [
@@ -3584,7 +3584,11 @@
     },
     {
       "shortname":"musul",
-      "display_name":{},
+      "display_name":{
+        "ar":"الموصل",
+        "en":"Musul",
+        "ku":"مووسڵ"
+      },
       "delivery_polygon":[
         [
           43.1164234,
