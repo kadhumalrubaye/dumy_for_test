@@ -469,26 +469,28 @@
           33.310318
         ]
       ],
-      "store_list": {
-        "shortname": "baghdad_mall_oodi_kiosk",
-        "address": {
-          "ar": "الحارثيه شارع الكندي",
-          "en": "Al Harthya Kindi St.",
-          "ku": "الحارثيه شارع الكندي"
-        },
-        "location": {
-          "latitude": "33.31175388",
-          "longitude": "44.3645902"
-        },
-        "working_hours": [],
-        "is_active": false,
-        "phone_number": null,
-        "displayname": {
-          "ar": "بغداد مول كشك oodi",
-          "en": "Baghdad Mall oodi Kiosk",
-          "ku": "بەغداد مۆڵ کوشکی ئوودی"
+      "store_list": [
+        {
+          "shortname": "baghdad_mall_oodi_kiosk",
+          "address": {
+            "ar": "الحارثيه شارع الكندي",
+            "en": "Al Harthya Kindi St.",
+            "ku": "الحارثيه شارع الكندي"
+          },
+          "location": {
+            "latitude": "33.31175388",
+            "longitude": "44.3645902"
+          },
+          "working_hours": [],
+          "is_active": false,
+          "phone_number": null,
+          "displayname": {
+            "ar": "بغداد مول كشك oodi",
+            "en": "Baghdad Mall oodi Kiosk",
+            "ku": "بەغداد مۆڵ کوشکی ئوودی"
+          }
         }
-      }
+      ]
     },
     {
       "shortname": "basrah",
@@ -887,37 +889,39 @@
           30.496506
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-basra_al_jazaeer",
-        "address": {
-          "ar": "البصرة - الجزائر - قرب مستشفى ابن غزوان",
-          "en": "Basra-AlJazeer-Near Ebn Gazowan hospital",
-          "ku": "بەسرە - الجزائر – نزیك نەخۆشخانەی ابن غزوان"
-        },
-        "location": {
-          "latitude": "30.50312236",
-          "longitude": "47.83338386"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-basra_al_jazaeer",
+          "address": {
+            "ar": "البصرة - الجزائر - قرب مستشفى ابن غزوان",
+            "en": "Basra-AlJazeer-Near Ebn Gazowan hospital",
+            "ku": "بەسرە - الجزائر – نزیك نەخۆشخانەی ابن غزوان"
+          },
+          "location": {
+            "latitude": "30.50312236",
+            "longitude": "47.83338386"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-البصرة الجزائر",
+            "en": "Zain-ROS-Basra Al Jazaeer",
+            "ku": "بنکەی فرۆشیاریی زين-بەسرە الجزائر"
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-البصرة الجزائر",
-          "en": "Zain-ROS-Basra Al Jazaeer",
-          "ku": "بنکەی فرۆشیاریی زين-بەسرە الجزائر"
         }
-      }
+      ]
     },
     {
       "shortname": "diwaniyah",
@@ -927,37 +931,39 @@
         "kd": "Diwaniyah"
       },
       "delivery_polygon": [],
-      "store_list": {
-        "shortname": "zain-ros-diwaniya",
-        "address": {
-          "ar": "الديوانية - العروبة الثانية - شارع المتحف",
-          "en": "Diwaniyah-AlMathaf street",
-          "ku": "دیوانییە - العروبة الثانية – شەقامی مۆزەخانە"
-        },
-        "location": {
-          "latitude": "31.9977",
-          "longitude": "44.91025"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-diwaniya",
+          "address": {
+            "ar": "الديوانية - العروبة الثانية - شارع المتحف",
+            "en": "Diwaniyah-AlMathaf street",
+            "ku": "دیوانییە - العروبة الثانية – شەقامی مۆزەخانە"
+          },
+          "location": {
+            "latitude": "31.9977",
+            "longitude": "44.91025"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-الديوانية",
+            "en": "Zain-ROS-Diwaniya",
+            "ku": "بنکەی فرۆشیاریی زين-دیوانییە"
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-الديوانية",
-          "en": "Zain-ROS-Diwaniya",
-          "ku": "بنکەی فرۆشیاریی زين-دیوانییە"
         }
-      }
+      ]
     },
     {
       "shortname": "diyala",
@@ -967,37 +973,39 @@
         "kd": "Diyala"
       },
       "delivery_polygon": [],
-      "store_list": {
-        "shortname": "zain-ros-diyala",
-        "address": {
-          "ar": "ديالى - بعقوبة - شارع خريسان - قرب تقاطع البلدة",
-          "en": "Diyala-Baquba-AlKhresan street",
-          "ku": "ديالە - بەعقوبە - شەقامی خريسان – نزیك چوارڕیانی البلدة"
-        },
-        "location": {
-          "latitude": "33.74628",
-          "longitude": "44.64109"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-diyala",
+          "address": {
+            "ar": "ديالى - بعقوبة - شارع خريسان - قرب تقاطع البلدة",
+            "en": "Diyala-Baquba-AlKhresan street",
+            "ku": "ديالە - بەعقوبە - شەقامی خريسان – نزیك چوارڕیانی البلدة"
+          },
+          "location": {
+            "latitude": "33.74628",
+            "longitude": "44.64109"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": false,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-ديالى",
+            "en": "Zain-ROS-Diyala",
+            "ku": "بنکەی فرۆشیاریی زين-بەعقوبە"
           }
-        ],
-        "is_active": false,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-ديالى",
-          "en": "Zain-ROS-Diyala",
-          "ku": "بنکەی فرۆشیاریی زين-بەعقوبە"
         }
-      }
+      ]
     },
     {
       "shortname": "erbil",
@@ -1007,37 +1015,39 @@
         "kd": "Erbil"
       },
       "delivery_polygon": [],
-      "store_list": {
-        "shortname": "zain-ros-erbil",
-        "address": {
-          "ar": "أربيل - شارع شورش - مجاور مستشفى الولادة",
-          "en": "Erbil-Shoresh street-Near AlWelada hospital",
-          "ku": "هەولێر - شەقامی شورش – تەنیشت نەخۆشخانەی لەدایکبوون"
-        },
-        "location": {
-          "latitude": "36.2137453",
-          "longitude": "44.0313975"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-erbil",
+          "address": {
+            "ar": "أربيل - شارع شورش - مجاور مستشفى الولادة",
+            "en": "Erbil-Shoresh street-Near AlWelada hospital",
+            "ku": "هەولێر - شەقامی شورش – تەنیشت نەخۆشخانەی لەدایکبوون"
+          },
+          "location": {
+            "latitude": "36.2137453",
+            "longitude": "44.0313975"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": false,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-أربيل",
+            "en": "Zain-ROS-Erbil",
+            "ku": "بنکەی فرۆشیاریی زين-هەولێر"
           }
-        ],
-        "is_active": false,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-أربيل",
-          "en": "Zain-ROS-Erbil",
-          "ku": "بنکەی فرۆشیاریی زين-هەولێر"
         }
-      }
+      ]
     },
     {
       "shortname": "fallujah",
@@ -1248,37 +1258,39 @@
           33.376154
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-falluja",
-        "address": {
-          "ar": " الانبار - الفلوجة - الشارع العام - مقابل دائرة بلدية الفلوجة",
-          "en": "Anbar-Fallujah-Main street-infront of al Fallujah municipality",
-          "ku": "ئەنباڕ - فەلوجە – شەقامی گشتی – بەرامبەر شارەوانی فەلوجە"
-        },
-        "location": {
-          "latitude": "33.34820965",
-          "longitude": "43.77227545"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-falluja",
+          "address": {
+            "ar": " الانبار - الفلوجة - الشارع العام - مقابل دائرة بلدية الفلوجة",
+            "en": "Anbar-Fallujah-Main street-infront of al Fallujah municipality",
+            "ku": "ئەنباڕ - فەلوجە – شەقامی گشتی – بەرامبەر شارەوانی فەلوجە"
+          },
+          "location": {
+            "latitude": "33.34820965",
+            "longitude": "43.77227545"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-الفلوجة ",
+            "en": "Zain-ROS-Falluja",
+            "ku": "بنکەی فرۆشیاریی زين-فەلوجە "
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-الفلوجة ",
-          "en": "Zain-ROS-Falluja",
-          "ku": "بنکەی فرۆشیاریی زين-فەلوجە "
         }
-      }
+      ]
     },
     {
       "shortname": "hilla",
@@ -1597,37 +1609,39 @@
           32.4286295
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-hilla",
-        "address": {
-          "ar": "بابل - الحلة - شارع حي الطيارة - قرب مقام رد الشمس",
-          "en": "Babil-Hilla-altayara street-near rad al shams maqam",
-          "ku": "بابل - حیللە – شەقامی گەڕەکی الطيارة - نزیك مقام رد الشمس"
-        },
-        "location": {
-          "latitude": "32.4935602",
-          "longitude": "44.4280269"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-hilla",
+          "address": {
+            "ar": "بابل - الحلة - شارع حي الطيارة - قرب مقام رد الشمس",
+            "en": "Babil-Hilla-altayara street-near rad al shams maqam",
+            "ku": "بابل - حیللە – شەقامی گەڕەکی الطيارة - نزیك مقام رد الشمس"
+          },
+          "location": {
+            "latitude": "32.4935602",
+            "longitude": "44.4280269"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-الحلة",
+            "en": "Zain-ROS-Hilla",
+            "ku": "بنکەی فرۆشیاریی زين-حیللە"
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-الحلة",
-          "en": "Zain-ROS-Hilla",
-          "ku": "بنکەی فرۆشیاریی زين-حیللە"
         }
-      }
+      ]
     },
     {
       "shortname": "karbala",
@@ -2146,37 +2160,39 @@
           32.6530838
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-karbala",
-        "address": {
-          "ar": "كربلاء - السعدية - شارع المحافظ",
-          "en": "Karbala-AlSadiya-Almuhafid street",
-          "ku": "كەربەلا - سەعدییە - شەقامی المحافظ"
-        },
-        "location": {
-          "latitude": "32.61133419",
-          "longitude": "44.02269"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-karbala",
+          "address": {
+            "ar": "كربلاء - السعدية - شارع المحافظ",
+            "en": "Karbala-AlSadiya-Almuhafid street",
+            "ku": "كەربەلا - سەعدییە - شەقامی المحافظ"
+          },
+          "location": {
+            "latitude": "32.61133419",
+            "longitude": "44.02269"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-كربلاء",
+            "en": "Zain-ROS-Karbala",
+            "ku": "بنکەی فرۆشیاریی زين-کەربەلا"
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-كربلاء",
-          "en": "Zain-ROS-Karbala",
-          "ku": "بنکەی فرۆشیاریی زين-کەربەلا"
         }
-      }
+      ]
     },
     {
       "shortname": "najaf",
@@ -2471,37 +2487,39 @@
           31.945181
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-najaf",
-        "address": {
-          "ar": "النجف الاشرف - حي السعد - شارع المثنى",
-          "en": "Najaf-Hay alsaad-AlMuthana street",
-          "ku": "نەجەف - گەڕەکی السعد - شەقامی المثنى"
-        },
-        "location": {
-          "latitude": "31.99987855",
-          "longitude": "44.34205763"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-najaf",
+          "address": {
+            "ar": "النجف الاشرف - حي السعد - شارع المثنى",
+            "en": "Najaf-Hay alsaad-AlMuthana street",
+            "ku": "نەجەف - گەڕەکی السعد - شەقامی المثنى"
+          },
+          "location": {
+            "latitude": "31.99987855",
+            "longitude": "44.34205763"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-النجف",
+            "en": "Zain-ROS-Najaf",
+            "ku": "بنکەی فرۆشیاریی زين-نەجەف"
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-النجف",
-          "en": "Zain-ROS-Najaf",
-          "ku": "بنکەی فرۆشیاریی زين-نەجەف"
         }
-      }
+      ]
     },
     {
       "shortname": "nasiriyah",
@@ -2980,37 +2998,39 @@
           31.068821
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-nasriya",
-        "address": {
-          "ar": "ذي قار - الناصرية - شارع بغداد - قرب مصرف بغداد",
-          "en": "Dhi Qar-Nasriyah-Baghdad Street-near baghdad bank",
-          "ku": "زیقار - ناسرییە – شەقامی بەغدا – نزیك بانکی بەغدا"
-        },
-        "location": {
-          "latitude": "31.04148",
-          "longitude": "46.2345"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-nasriya",
+          "address": {
+            "ar": "ذي قار - الناصرية - شارع بغداد - قرب مصرف بغداد",
+            "en": "Dhi Qar-Nasriyah-Baghdad Street-near baghdad bank",
+            "ku": "زیقار - ناسرییە – شەقامی بەغدا – نزیك بانکی بەغدا"
+          },
+          "location": {
+            "latitude": "31.04148",
+            "longitude": "46.2345"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-الناصرية",
+            "en": "Zain-ROS-Nasriya",
+            "ku": "بنکەی فرۆشیاریی زين-ناسرییە"
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-الناصرية",
-          "en": "Zain-ROS-Nasriya",
-          "ku": "بنکەی فرۆشیاریی زين-ناسرییە"
         }
-      }
+      ]
     },
     {
       "shortname": "ramadi",
@@ -3377,37 +3397,39 @@
           33.396631
         ]
       ],
-      "store_list": {
-        "shortname": "zain-ros-rumadi",
-        "address": {
-          "ar": " الانبار - الرمادي - شارع المستودع- مجاور دائرة صندوق الإسكان",
-          "en": "Anbar-Rumadi-al mustawdaa street-near the housing fund department",
-          "ku": "ئەنباڕ - رومادی - شەقامی المستودع- تەنیشت فەرمانگەی سندوقی نیشتەجێکردن"
-        },
-        "location": {
-          "latitude": "33.420906",
-          "longitude": "43.30196"
-        },
-        "working_hours": [
-          {
-            "days": {
-              "from": "Saturday",
-              "to": "Thursday"
-            },
-            "hours": {
-              "from": "08:00AM",
-              "to": "06:00PM"
+      "store_list": [
+        {
+          "shortname": "zain-ros-rumadi",
+          "address": {
+            "ar": " الانبار - الرمادي - شارع المستودع- مجاور دائرة صندوق الإسكان",
+            "en": "Anbar-Rumadi-al mustawdaa street-near the housing fund department",
+            "ku": "ئەنباڕ - رومادی - شەقامی المستودع- تەنیشت فەرمانگەی سندوقی نیشتەجێکردن"
+          },
+          "location": {
+            "latitude": "33.420906",
+            "longitude": "43.30196"
+          },
+          "working_hours": [
+            {
+              "days": {
+                "from": "Saturday",
+                "to": "Thursday"
+              },
+              "hours": {
+                "from": "08:00AM",
+                "to": "06:00PM"
+              }
             }
+          ],
+          "is_active": true,
+          "phone_number": "107",
+          "displayname": {
+            "ar": "مركزZain للمبيعات-الرمادي ",
+            "en": "Zain-ROS-Rumadi",
+            "ku": "بنکەی فرۆشیاریی زين-رومادی "
           }
-        ],
-        "is_active": true,
-        "phone_number": "107",
-        "displayname": {
-          "ar": "مركزZain للمبيعات-الرمادي ",
-          "en": "Zain-ROS-Rumadi",
-          "ku": "بنکەی فرۆشیاریی زين-رومادی "
         }
-      }
+      ]
     }
   ]
 }
