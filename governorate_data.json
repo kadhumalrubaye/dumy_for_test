@@ -3,7 +3,7 @@
     {
       "shortname": "baghdad",
       "display_name": {
-        "ar": "Baghdad",
+        "ar": "بغداد",
         "en": "Baghdad",
         "kd": "Baghdad"
       },
@@ -495,7 +495,7 @@
     {
       "shortname": "basrah",
       "display_name": {
-        "ar": "Basrah",
+        "ar": "البصرة",
         "en": "Basrah",
         "kd": "Basrah"
       },
@@ -926,7 +926,7 @@
     {
       "shortname": "diwaniyah",
       "display_name": {
-        "ar": "Diwaniyah",
+        "ar": "الديوانية",
         "en": "Diwaniyah",
         "kd": "Diwaniyah"
       },
@@ -968,7 +968,7 @@
     {
       "shortname": "diyala",
       "display_name": {
-        "ar": "Diyala",
+        "ar": "ديالى",
         "en": "Diyala",
         "kd": "Diyala"
       },
@@ -1010,7 +1010,7 @@
     {
       "shortname": "erbil",
       "display_name": {
-        "ar": "Erbil",
+        "ar": "أربيل",
         "en": "Erbil",
         "kd": "Erbil"
       },
@@ -1052,7 +1052,7 @@
     {
       "shortname": "fallujah",
       "display_name": {
-        "ar": "Fallujah",
+        "ar": "الفلوجة",
         "en": "Fallujah",
         "kd": "Fallujah"
       },
@@ -1295,7 +1295,7 @@
     {
       "shortname": "hilla",
       "display_name": {
-        "ar": "Hilla",
+        "ar": "الحلة",
         "en": "Hilla",
         "kd": "Hilla"
       },
@@ -1646,7 +1646,7 @@
     {
       "shortname": "karbala",
       "display_name": {
-        "ar": "Karbala",
+        "ar": "كربلاء",
         "en": "Karbala",
         "kd": "Karbala"
       },
@@ -2197,7 +2197,7 @@
     {
       "shortname": "najaf",
       "display_name": {
-        "ar": "Najaf",
+        "ar": "النجف",
         "en": "Najaf",
         "kd": "Najaf"
       },
@@ -2524,7 +2524,7 @@
     {
       "shortname": "nasiriyah",
       "display_name": {
-        "ar": "Nasiriyah",
+        "ar": "الناصرية",
         "en": "Nasiriyah",
         "kd": "Nasiriyah"
       },
@@ -3035,7 +3035,7 @@
     {
       "shortname": "ramadi",
       "display_name": {
-        "ar": "Ramadi",
+        "ar": "الرمادي",
         "en": "Ramadi",
         "kd": "Ramadi"
       },
